@@ -2,7 +2,7 @@
 
 **Note**: This repository is mostly empty. It's a big TODO and is mostly for holding my ideas.
 
-The point of this project is to build a server that can download a repository from GitHub and then do the following:
+The point of this project is to build a server that run on Kubernetes and can download a repository from GitHub and then do the following:
 
 1. Look for a `.dockerize.yml` file, which will have:
   1. Locations of files to download from Amazon S3, and where to store each one locally
